@@ -11,7 +11,6 @@ public class CarDealershipSingleton {
 
     public CarDealershipSingleton() {
 
-
     }
 
     public static CarDealershipSingleton getInstance(){
