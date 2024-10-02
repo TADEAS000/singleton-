@@ -11,4 +11,5 @@ public class Main {
         carDealershipSingleton.orderCar(car2);
         carDealershipSingleton.printOrders();
     }
+
 }
